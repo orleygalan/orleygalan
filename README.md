@@ -1,7 +1,3 @@
-<p align="left">
-  <img src="./Chambeador.gif" alt="Demo" width="600" />
-</p>
-
 <h2 align="left">Hola, soy Orley Galan 👋</h2>
 
 ###
@@ -9,6 +5,10 @@
 <p align="left">Desarrollador full-stack especializado en la creación de aplicaciones web limpias y escalables. Me apasiona escribir código mantenible, aplicar principios de arquitectura sólidos y ofrecer valor real a través de software bien diseñado.</p>
 
 ###
+
+<p align="left">
+  <img src="./Chambeador.gif" alt="Demo" width="600" />
+</p>
 
 <h4 align="left">Tech Stack  :</h4>
 
