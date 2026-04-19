@@ -6,11 +6,7 @@
 
 ###
 
-<p align="left">
-  <img src="./Chambeador.gif" alt="Demo" width="600" />
-</p>
-
-<h4 align="left">Tech Stack  :</h4>
+<h2 align="left"> </> Tech Stack  :</h2>
 
 ###
 
@@ -43,3 +39,7 @@
 </div>
 
 ###
+
+<p align="left">
+  <img src="./Chambeador.gif" alt="Demo" width="600" />
+</p>
